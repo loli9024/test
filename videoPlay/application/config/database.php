@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql',
+	'hostname' => '35.184.84.202',
 	'username' => 'root',
 	'password' => 'secret',
 	'database' => 'YouTube',
